@@ -18,4 +18,12 @@ Or copy `SKILL.md` into any agent's skill/prompt directory.
 
 Ask your agent to "teach me X Feynman-style" or "help me really understand X".
 
+## Live in action
+
+A real Hermes session using this skill: each answer is checked in halves — correct,
+missing — then sharpened, with a next question. The learner refines the explanation
+until it holds.
+
+![Feynman loop live session in Hermes](docs/feynman-live-session.png)
+
 License: MIT
